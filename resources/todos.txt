@@ -1,0 +1,1 @@
+{0 {:text "First todo", :time "2023-01-27T19:45", :color 4294901760}, 1 {:text "Second todo", :time "2023-01-28T19:49", :color 4284940032}, 2 {:text "Third todo", :time "2023-01-29T19:49", :color 4278255615}}

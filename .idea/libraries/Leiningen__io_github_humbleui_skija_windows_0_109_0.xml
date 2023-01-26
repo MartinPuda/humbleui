@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: io.github.humbleui/skija-windows:0.109.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/humbleui/skija-windows/0.109.0/skija-windows-0.109.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
